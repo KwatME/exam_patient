@@ -110,7 +110,7 @@ REVIEW OF SYSTEM
 
 ## Vital
 
-(remarkable for the following)
+(is remarkable for the following)
 
 VITAL
 
@@ -118,15 +118,45 @@ VITAL
 
 ## Physical Exam
 
-(remarkable for the following)
+(is remarkable for the following)
 
 PHYSICAL EXAM
+
+### Lung
+
+### Heart
+
+### Abdomen
+
+### Mental status
+
+### Skull
+
+### Nose
+
+### Eye
+
+### Face
+
+### Ear
+
+### Mouth
+
+### Neck
+
+### Arm
+
+### Leg
+
+### Back
+
+### Coordination
 
 ---
 
 ## Diagnostic Test
 
-(remarkable for the following)
+(is remarkable for the following)
 
 DIAGNOSTIC TEST
 
@@ -150,6 +180,6 @@ D1 is the most likely because: ... However, ...
 D2 is possible because: ... However, ...
 D3 is possible because: ... However, ...
 
-Diagnostic plan (is the following): ...
-Treatment plan (is the following): ...
-Education plan (is the following): ...
+Diagnostic plan should: ...
+Treatment plan should: ...
+Education plan should: ...
